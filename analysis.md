@@ -1,9 +1,4 @@
 
----
-
-### ✅ Step 5: Create analysis.md with Insights
-
-Example:
 
 ```markdown
 # Score Analysis
